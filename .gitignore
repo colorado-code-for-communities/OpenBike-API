@@ -34,3 +34,4 @@ gen-java/
 gen-javabean/
 gen-py/
 .idea/
+osm-cache/
